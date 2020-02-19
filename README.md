@@ -3,8 +3,8 @@
 Archive Earthworm log files to yyyy/jjj directories.
 
 
-### Purpose/Scope ###A
-Archive Earthworm log files. Can be run manually, 
+### Purpose/Scope ###
+Clean up earthworm log directory. Can be run manually, 
 or called via cron.
 
 
@@ -20,7 +20,7 @@ Install in editable mode
 `pip install -e .`
 
 Or install directly from github  
-`pip install git+https://github.com/flyrok/archive_ewlogs#egg=hypoarc2sac`
+`pip install git+https://github.com/flyrok/archive_ewlogs#egg=archive_ewlogs`
 
 
 ## Python Dependencies ##
